@@ -1,3 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Lato:ital,wght@0,400;1,700&family=Source+Sans+Pro:wght@600&display=swap");
+* {
+  font-family: "Lato";
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
 header {
     background-color: #333;
@@ -45,3 +52,5 @@ header.sticky {
     background-color: #0d0d0d;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
+
+
