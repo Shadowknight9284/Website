@@ -1,7 +1,5 @@
 /*
-Theme Name: Jason Stroff
-
-  1. >>> Headr Style
+  1. >>> Header Style
   2. >>> Banner Style
   3. >>> About Style
   4. >>> Skills Style
@@ -74,6 +72,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-skills-list{ list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; align-items: center; margin-top: 11px; }
 .ds-skills-list li{ display: inline-block; color: #373737; font-size: 16px; padding:10px 20px; background-color: #FFF; border: 1px solid #D7D7D7;
   border-radius: 27px; margin-right: 15px; margin-bottom: 15px;  font-weight: 500;}
+.ds-skills-list li:hover {background-color: #373737; color: #FFF;}
 
 /*-----------------------------------------------------------------
   5. >>> Experience Style
